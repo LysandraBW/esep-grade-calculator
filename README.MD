@@ -17,7 +17,11 @@ cd grade_calculator/
 go test -coverprofile=coverage.txt ./...
 ```
 
-Files:
-	1. go.mod: Declares the canonical name for a module via the module directive and establishes the required version of Go.
-	2. grade_calculator.go: Implements the GradeCalculator object.
-	3. grade_calculator_test.go: Contains tests for the GradeCalculator object.
+Files:  
+
+	1. go.mod: Declares the canonical name for a module via the module directive and establishes the required version of Go.  
+
+	2. grade_calculator.go: Implements the GradeCalculator object.  
+
+	3. grade_calculator_test.go: Contains tests for the GradeCalculator object.  
+
